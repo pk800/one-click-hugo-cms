@@ -4,7 +4,7 @@ date: 2019-01-07T15:26:36.876Z
 description: >-
   This is a very exciting day and netlify CMS has been the great discovery of
   this day. 
-image: /img/about-direct-sourcing.jpg
+image: /img/todd-quackenbush-27493-unsplash-1-.jpg
 ---
 Some sample content, not mine, of course. ‘It can be a bit of a washing machine at the start, so just find your space and race your own race’, a triathlon friend said to me. I am at the starting line: wetsuit on, goggles on (fog, of course), surrounded by fellow athletes, there are people everywhere! Am on the right side of the starting group, a bit towards the back. I feel good, fit and energetic, and I know that the swim is my strongest discipline. Since it is my first triathlon, my motto is to ‘have fun and finish!’.
 
