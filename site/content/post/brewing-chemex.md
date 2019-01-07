@@ -1,10 +1,9 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: A beginners’ guide to brewing with Chemex - tweaked by Pavel!
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+  Chemex is my favourite way to brew coffee.  The thick filters that they supply
+  makes a world of difference.
 image: /img/blog-chemex.jpg
 ---
 
